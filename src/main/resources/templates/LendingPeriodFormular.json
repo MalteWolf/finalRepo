@@ -1,0 +1,47 @@
+[
+    {
+        "type": "input",
+        "element": {
+            "type": "plain_text_input",
+            "action_id": "sl_input"
+        },
+        "label": {
+            "type": "plain_text",
+            "text": "Titel"
+        }
+    },
+    {
+        "type": "input",
+        "element": {
+            "type": "datepicker",
+            "initial_date": "1990-04-28",
+            "placeholder": {
+                "type": "plain_text",
+                "text": "Select a date",
+                "emoji": true
+            }
+        },
+        "label": {
+            "type": "plain_text",
+            "text": "Vom",
+            "emoji": true
+        }
+    },
+    {
+        "type": "input",
+        "element": {
+            "type": "datepicker",
+            "initial_date": "1990-04-28",
+            "placeholder": {
+                "type": "plain_text",
+                "text": "Select a date",
+                "emoji": true
+            }
+        },
+        "label": {
+            "type": "plain_text",
+            "text": "Bis",
+            "emoji": true
+        }
+    }
+]

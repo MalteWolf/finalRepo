@@ -1,0 +1,14 @@
+
+#encoway {
+    opacity: 0.8;
+    bottom: 25px;
+    right: 25px;
+    lenght: 188px;
+    height: 65px;
+    position: absolute;
+}
+
+.container {
+    max-width: 1000px;
+}
+
